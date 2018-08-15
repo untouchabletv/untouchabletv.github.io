@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.untouchabletv.github.io" resolutions="1x" timestamp="1534352052294">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.untouchabletv.github.io" resolutions="1x" timestamp="1534354009742">
   <folder name="css">
     <file name="site_global.css" crc="3778730240"/>
-    <file name="index.css" crc="372455087" ref="index"/>
+    <file name="index.css" crc="4051554340" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="cf-lg.png" crc="271006019" seo="true" mt="1519771866000"/>
@@ -62,5 +62,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4236185195" seo="true" mt="1534352027718" redirect="true"/>
+  <file name="index.html" crc="4224978339" seo="true" mt="1534353989630" redirect="true"/>
 </manifest>
