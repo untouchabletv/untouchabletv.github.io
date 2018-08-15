@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.untouchabletv.github.io" resolutions="1x" timestamp="1534351454157">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.untouchabletv.github.io" resolutions="1x" timestamp="1534352052294">
   <folder name="css">
     <file name="site_global.css" crc="3778730240"/>
     <file name="index.css" crc="372455087" ref="index"/>
@@ -62,5 +62,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="531281583" seo="true" mt="1534351424784" redirect="true"/>
+  <file name="index.html" crc="4236185195" seo="true" mt="1534352027718" redirect="true"/>
 </manifest>
